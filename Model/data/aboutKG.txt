@@ -1,0 +1,8 @@
+KG: e::r::e
+
+e includes 	userID (e.g. u1), age (grouped: 1, 18, 25, ...), occupation (10 types); 
+			movieID (e.g. m1), title, publish year (grouped: 1910, 1920, 1930, ...), genre
+
+r includes rated, gender, age, occupation, title, year, genre
+
+Note that: the original ratings that a user rated on a movie can be found in ratings.dat
